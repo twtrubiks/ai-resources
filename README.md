@@ -4,7 +4,7 @@
 
 ## AI 系統提示詞 (System Prompts) 資源探索
 
-* [Youtube Tutorial - AI 如何思考？解密各大模型系統提示詞 (Leaked Prompts) + 超炫 GPT-4o 圖片集錦(等待新增)](xxxx)
+* [Youtube Tutorial - AI 如何思考？解密各大模型系統提示詞 (Leaked Prompts) + 超炫 GPT-4o 圖片集錦 + DeepWiki (等待新增)](xxxx)
 
 ### leaked-system-prompts 以及 CL4R1T4S
 
@@ -45,3 +45,9 @@ deepseek 系統提示詞很短, 但是你會發現貼到 deepseek 會到擋住.
 這個專案收集了許多可以用來產生有趣圖片的 Prompt 範例
 
 [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)
+
+## deepwiki
+
+這邊有收錄的 repo, 你用問的就可以快速了解這個專案
+
+[deepwiki](https://deepwiki.com/)
