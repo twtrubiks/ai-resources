@@ -51,3 +51,7 @@ deepseek 系統提示詞很短, 但是你會發現貼到 deepseek 會到擋住.
 這邊有收錄的 repo, 你用問的就可以快速了解這個專案
 
 [deepwiki](https://deepwiki.com/)
+
+## AI 工具生產力提升之路：從免費到付費
+
+[AI 工具生產力提升之路：從免費到付費](ai_tools_review.md)
